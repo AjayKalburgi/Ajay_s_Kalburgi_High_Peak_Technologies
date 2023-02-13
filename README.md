@@ -20,7 +20,7 @@ Enter job start time, end time, and earnings
 300
 Sample Output: 1
 The number of tasks and earnings available for others
-Task: 2
+Task: 1
 Earnings: 400
 
 Sample Input: 2
@@ -38,7 +38,7 @@ Enter job start time, end time, and earnings
 150
 Sample Output: 2
 The number of tasks and earnings available for others
-Task: 2
+Task: 1
 Earnings: 400
 
 Sample Input:3
@@ -57,4 +57,4 @@ Enter job start time, end time, and earnings
 Sample Output: 3
 The number of tasks and earnings available for others
 Task: 1
-Earnings: 100 
+Earnings: 200 
