@@ -1,6 +1,8 @@
 # Ajay_s_Kalburgi_High_Peak_Technologies
 This is the code for the given Statement in java
 
+path for code is src -> main.java
+
 TEST CASE ARE :-
 
 Sample Input: 1
