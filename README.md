@@ -3,6 +3,10 @@ This is the code for the given Statement in java
 
 path for code is :- src -> main.java
 
+VIDEO of the Code test case execution - 
+
+https://user-images.githubusercontent.com/61042120/218417059-d464f959-836a-4f97-b44e-f0e9edf4b93b.mp4
+
 TEST CASE ARE :-
 
 Sample Input: 1
